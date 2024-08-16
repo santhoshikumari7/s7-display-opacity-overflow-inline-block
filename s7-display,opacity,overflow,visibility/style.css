@@ -1,0 +1,116 @@
+#mainheading{
+    background-color: darkgoldenrod;
+    color: azure;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+
+#vespaheading{
+    background-color: lightcoral;
+    color: blue;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#vespaimg{
+    width: 400px;
+
+}
+#vespadesc{
+    background-color: brown;
+    height: 400px;
+    width: 800px;
+    display: inline-block;
+    overflow: auto;
+    text-align: center;
+}
+
+
+#fasciheading{
+    background-color: chocolate;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#fasciimg{
+    width: 400px;
+    opacity: 0.5;
+
+}
+#fascidesc{
+   background-color: blueviolet;
+   width: 500px;
+   height: 300px;
+   display: inline-block;
+   overflow: auto;
+   
+}
+#hondaheading{
+    background-color: darkgoldenrod;
+    text-align: center;
+    border-radius:10px ;
+    box-shadow: 10px 10px 10px darkslategrey;
+
+}
+
+
+#hondaimg{
+    width: 400px;
+
+}
+#hondadesc{
+    background-color: lightpink;
+    width: 600px;
+    height: 400px;
+    display: inline-block;
+    overflow: auto;
+   
+}
+
+#maruthiheading{
+    background-color: limegreen;
+    text-align: center;
+    box-shadow: 10px 10px 10px rgb(146, 78, 78);
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#maruthiimg{
+    width: 400px;
+
+}
+#maruthidesc{
+    background-color: deeppink;
+    width: 600px;
+    height: 300px;
+    display: inline-block;
+    overflow: auto;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
